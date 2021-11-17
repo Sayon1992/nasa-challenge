@@ -1,5 +1,9 @@
 # nasa-challenge
 
+## First:
+
+### yarn install
+
 ## To run the App:
 
 ### yarn start
